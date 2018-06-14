@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crossover/crossover.iml" filepath="$PROJECT_DIR$/.idea/modules/crossover/crossover.iml" group="crossover" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geneticalgorithms.crossover/geneticalgorithms.crossover.iml" filepath="$PROJECT_DIR$/.idea/modules/geneticalgorithms.crossover/geneticalgorithms.crossover.iml" group="geneticalgorithms.crossover" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geneticalgorithms.mutation/geneticalgorithms.mutation.iml" filepath="$PROJECT_DIR$/.idea/modules/geneticalgorithms.mutation/geneticalgorithms.mutation.iml" group="geneticalgorithms.mutation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java.iml" filepath="$PROJECT_DIR$/.idea/modules/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_main.iml" group="java" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_test.iml" group="java" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mutation.iml" filepath="$PROJECT_DIR$/.idea/modules/mutation.iml" group="mutation" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mutation/mutation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mutation/mutation_main.iml" group="mutation" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mutation/mutation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mutation/mutation_test.iml" group="mutation" />
     </modules>
   </component>
 </project>

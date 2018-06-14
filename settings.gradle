@@ -1,4 +1,4 @@
 rootProject.name = 'java'
-include 'crossover'
-include 'mutation'
+include 'geneticalgorithms.crossover'
+include 'geneticalgorithms.mutation'
 
